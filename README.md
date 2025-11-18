@@ -1,3 +1,5 @@
+Dataset: used_device_data.csv - from Kaggle: https://www.kaggle.com/datasets/ahsan81/used-handheld-device-data
+
 AT2A-Team_expectations_agreement-Group_25.pdf Group coorperation arrangement note. 
 
 Code_AT2B-EDA_phone_dataset.ipynb
